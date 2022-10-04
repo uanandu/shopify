@@ -181,3 +181,11 @@ eg:
 ### Dynamic content
 
 - Dynamic content is content that changes. For example, the time on this page is dynamic. It changes every time you refresh the page.
+
+## Shopify developer tools
+
+- Go to shopify.dev and sign up
+
+- Go to the Shopify Partner Dashboard and create a new app.
+
+- Set up a development store.
